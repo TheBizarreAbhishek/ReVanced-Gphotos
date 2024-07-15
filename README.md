@@ -23,7 +23,7 @@
 - Boom you are good to go.
 
 ## Notice 
- Some functions may not work due to imperfect substitution of Google services. 
+- Some functions may not work due to imperfect substitution of Google services. 
 
 # Credits 
 
