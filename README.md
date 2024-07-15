@@ -1,8 +1,8 @@
 # ReVanced GPhotos
 ## Features 
-- GP thinks your phone is a Pixel XL.
+- Google Photos thinks your phone is a Pixel XL.
 
-- unlimited without root 
+- unlimited backup without root 
 
 - does not conflict with the original version 
 
@@ -21,9 +21,12 @@
 - download [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases) and login your account
 
 - Boom you are good to go.
+
 ## Notice 
  Some functions may not work due to imperfect substitution of Google services. 
 
 # Credits 
+
 - This mod would not be possible without the revanced patches to support GMSCore and GMSCore itself. 
+
 - ReVanced for GmsCore patch I have modified it to work with Gphotos
