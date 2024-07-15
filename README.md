@@ -1,1 +1,1 @@
-# ReVanced-GooglePhotos
+# ReVanced GPhotos
